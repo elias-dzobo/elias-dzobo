@@ -1,4 +1,5 @@
-Hi 👋 My name is Elias Elikem Ifeanyi Dzobo =========================================== 
+Hi 👋 My name is Elias Elikem Ifeanyi Dzobo
+=========================================== 
 AI Engineer and Web3 Developer 
 ------------------------------ 
 I am a technology enthusiast fascinated with working with data and problem solving. I love working with Artificial Intelligence and Machine Learning and using data to solve problems. I am also fascinated about blockchain technology and building products and offering services on the blockchain. 
